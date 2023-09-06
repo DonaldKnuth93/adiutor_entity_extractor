@@ -7,7 +7,7 @@ from langchain.prompts import PromptTemplate
 
 
 def main():
-    st.title("Invoice Entity Extractor:books:")
+    st.title("adiutor Entity Extractor")
 
     uploaded_file = st.sidebar.file_uploader("Upload a PDF file", type="pdf")
 
